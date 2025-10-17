@@ -33,6 +33,9 @@ Installer les dépendances :
 
 npm install
 
+Compiler le TypeScript:
+
+npx tsc
 
 ## Utilisation :
 
